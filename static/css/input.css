@@ -1,0 +1,13 @@
+.login-container input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: solid 2px #7E7E7E;
+
+    background-color: transparent;
+
+    color: white;
+
+    box-sizing: border-box
+}
