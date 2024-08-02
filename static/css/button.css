@@ -2,7 +2,7 @@
 .login-container button {
     width: 80%;
     padding: 10px;
-    background: #6a0dad;
+    background: #5C29EF;
     border: none;
     border-radius: 5px;
     color: white;
@@ -12,19 +12,7 @@
 
 
 .login-container button:hover {
-    background: #4b0082;
+    background: #3f1ca3;
 }
 
 
-.register {
-    margin-top: 10px;
-}
-
-.register a {
-    color: #6a0dad;
-    text-decoration: none;
-}
-
-.register a:hover {
-    text-decoration: underline;
-}
